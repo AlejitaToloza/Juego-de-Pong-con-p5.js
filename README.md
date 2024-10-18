@@ -1,4 +1,4 @@
-<h1>EL Juego del Pong</h1>
+<h1>El Juego del Pong</h1>
 
 Al realizar este curso para Lógica de Programación:
 * Se enfatizó el uso de ChatGPT
